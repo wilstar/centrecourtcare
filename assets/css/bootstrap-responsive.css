@@ -444,6 +444,9 @@
 }
 
 @media (min-width: 768px) and (max-width: 979px) {
+
+
+
   .row {
     margin-left: -20px;
     *zoom: 1;
@@ -886,13 +889,18 @@
 
 
 .hero-unit h1 {
-  font-size: 34px;
+  font-size: 38px;
   text-align: center;
 
 }
 
+.thumbnail {
+  width:300px;
+  margin-left: 0px;
+}
+
+
 .hero-unit {
-  padding-top: 15px;
   padding-left: 20px;
   padding-right: 20px;
   padding-bottom: 30px;
